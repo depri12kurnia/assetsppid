@@ -1858,7 +1858,7 @@ section {
 =============================================*/
 
 . {
-  background: url(../images/home01/bg-count-img.jpg) no-repeat fixed;
+/*   background: url(../images/home01/bg-count-img.jpg) no-repeat fixed; */
   background-size: cover;
   background-position: 33%;
 }
