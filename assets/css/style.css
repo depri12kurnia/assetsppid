@@ -1304,6 +1304,8 @@ section {
   text-transform: capitalize;
   padding: 13px 10px 10px 8px;
   min-width: 240px;
+  white-space: normal; /* Agar teks wrap ke baris berikutnya */
+  word-wrap: break-word;
 }
 .header-style-1 .main-menu .sub-menu li a .fa,
 .header-style-2 .main-menu .sub-menu li a .fa,
