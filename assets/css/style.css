@@ -1303,9 +1303,7 @@ section {
   color: #686969;
   text-transform: capitalize;
   padding: 13px 10px 10px 8px;
-  min-width: 250px;
-  white-space: normal;
-  word-wrap: break-word;
+  min-width: 280px;
 }
 .header-style-1 .main-menu .sub-menu li a .fa,
 .header-style-2 .main-menu .sub-menu li a .fa,
