@@ -1857,13 +1857,13 @@ section {
 	Start Count Section
 =============================================*/
 
-.bg-count-section {
+. {
   background: url(../images/home01/bg-count-img.jpg) no-repeat fixed;
   background-size: cover;
   background-position: 33%;
 }
 .count-overlay {
-  background: rgba(83, 169, 44, 0.9);
+  background: #CDDC29;
 }
 .count-option {
   padding: 108px 0 117px 0;
