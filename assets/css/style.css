@@ -5858,8 +5858,9 @@ div#filters {
 }
 
 .boxed .box-layout {
-  max-width: 1230px;
-  margin: auto;
+  width: 100%;
+  margin: 0;
+  padding: 0;
   background-color: #fff;
 }
 
