@@ -1,4 +1,4 @@
-/* Theme Name: GreenForest - Event, Conference & Meetup HTML Template
+header-style-2 .bg-header-top/* Theme Name: GreenForest - Event, Conference & Meetup HTML Template
     Theme URI: http://codexcoder.com/
     Author: codexcoder
     Author URI: http://codexcoder.com/
@@ -2435,6 +2435,7 @@ section {
   float: right;
 }
 .header-style-2 .bg-header-top {
+  width: 100%;
   background: #00B9AD;
   color: #fff;
 }
