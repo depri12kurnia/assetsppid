@@ -2278,7 +2278,7 @@ section {
 .widgets-title {
   margin-bottom: 32px;
 }
-.widgets-title h3 {
+.widgets-title h5 {
   color: #fefefe;
   text-transform: capitalize;
 }
