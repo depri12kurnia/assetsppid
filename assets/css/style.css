@@ -2641,11 +2641,12 @@ section {
 }
 .about-greenforest-content h4 {
   text-transform: capitalize;
+  color: #686969;
 }
 .about-greenforest-content p span {
   display: inline-block;
   font-weight: 600;
-  color: #00B9AD;
+  color: #686969;
   margin: 11px 0 18px 0;
   text-align: justify;
 }
